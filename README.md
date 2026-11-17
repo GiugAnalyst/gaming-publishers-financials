@@ -1,3 +1,5 @@
+**[View the interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiZDBlNmU4YjctZTQ2MC00MDZiLWI0ODQtNWUyOGViZGI0MmY3IiwidCI6Ijg0MDAyOWEzLTc5ZmYtNDBmZS1hZGYyLTk4MTZmY2JmYzc2NyIsImMiOjh9)**
+
 # Gaming Publishers: Financial Health Analysis
 
 A financial analysis of three video game publishers — **Capcom**, **Take-Two Interactive**, and **Ubisoft** — covering fiscal years 2023–2026. The project compares their profitability, liquidity, debt, cash generation, and growth, using an end-to-end pipeline from data extraction to an interactive Power BI dashboard.
